@@ -1,0 +1,7 @@
+Rencana Kegiatan
+
+-Belajar dasar Github di youtube
+  ^repo
+  ^commit
+-Menulis Konsep Branch
+-olahraga sore
