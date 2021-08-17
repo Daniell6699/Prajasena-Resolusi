@@ -9,3 +9,8 @@ Rencana Kegiatan
   ^C
 -olahraga sore
  ^Boxing
+-Menulis Konsep Branch
+-olahraga sore
+ ^Boxing
+-Dinner
+
