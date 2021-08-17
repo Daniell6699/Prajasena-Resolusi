@@ -4,10 +4,13 @@ Rencana Kegiatan
   ^repo
   ^commit
 -Android Native
-  ^UI
+  ^C++
   ^Java
   ^C
+-olahraga sore
+ ^Boxing
 -Menulis Konsep Branch
 -olahraga sore
  ^Boxing
 -Dinner
+
