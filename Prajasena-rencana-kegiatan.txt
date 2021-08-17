@@ -4,5 +4,9 @@ Rencana Kegiatan
   ^repo
   ^commit
 -Android Native
+  ^UI
+  ^Java
 -Menulis Konsep Branch
 -olahraga sore
+ ^Boxing
+-Dinner
