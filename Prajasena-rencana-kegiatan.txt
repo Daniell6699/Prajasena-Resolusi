@@ -3,5 +3,6 @@ Rencana Kegiatan
 -Belajar dasar Github di youtube
   ^repo
   ^commit
+-Android Native
 -Menulis Konsep Branch
 -olahraga sore
