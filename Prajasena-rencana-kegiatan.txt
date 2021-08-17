@@ -6,6 +6,7 @@ Rencana Kegiatan
 -Android Native
   ^UI
   ^Java
+  ^C
 -Menulis Konsep Branch
 -olahraga sore
  ^Boxing
